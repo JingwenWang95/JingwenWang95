@@ -1,19 +1,19 @@
 <h1 align="center">
-  Hello I'm Weilue Luo
+  Hello I'm Jingwen Wang
 </h1>
 
 <!-- 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redcxx&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JingwenWang95&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
 </div>
 -->
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=redcxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&line_height=30" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&line_height=30" />
 </div>
 
 <!-- <div align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=redcxx&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JingwenWang95&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>
 </div> -->
 
   
@@ -84,19 +84,7 @@
 </h2>
 <div align=center>
   <!-- <a href="https://luoweilue.com">https://luoweilue.com</a><br /> -->
-  <a href="https://weilueluo.com">https://weilueluo.com</a>
+  <a href="https://jingwenwang95.github.io">https://jingwenwang95.github.io</a>
   </ul>
 </div>
 
-
-<h2 align="center">
-  I watch Anime before sleep
-</h2>
-<p align="center">
-<i>...and Minakata Hizuru is the best waifu.</i>
-</p>
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Redcxx/Redcxx/master/100553225_p0.jpg" alt="waifu" width="25%"/>
-</div>
