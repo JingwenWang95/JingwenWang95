@@ -2,6 +2,9 @@
   Hello I'm Jingwen Wang
 </h1>
 
+[//]: # (| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jingwen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingwenWang95&layout=compact&theme=buefy&hide_border=true" /></a> |)
+[//]: # (|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|)
+
 <!-- 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JingwenWang95&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
@@ -24,16 +27,16 @@
 
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br />
-  Resume<br />
-  <a href="https://github.com/Redcxx/cv/blob/master/resume.pdf">
+  Personal Page<br />
+  <a href="https://jingwenwang95.github.io">
     <img src="icons/cv.png" width=16 height=16> 
-    https://github.com/Redcxx/cv/blob/master/resume.pdf
+    https://jingwenwang95.github.io
     <img src="icons/cv.png" width=16 height=16>
   </a>
   <br/>
-  <a href="mailto:work.luoweilue@gmail.com">
+  <a href="jingwen.wang.17@ucl.ac.uk">
     <img src="icons/envelope-solid.svg" width=16 height=16> 
-    work.luoweilue@gmail.com
+    jingwen.wang.17@ucl.ac.uk
     <img src="icons/envelope-solid.svg" width=16 height=16>
   </a>
 </p>
@@ -44,18 +47,18 @@
 
 <div align="center">
   <!-- https://icons8.com/icons -->
-  <a href="https://www.java.com/en/"><img src="icons/icons8-java.svg" width=48 height=48></a>
+  <a href="https://cplusplus.com/"><img src="icons/cpp_icon.png" width=42 height=48></a>
   <a href="https://www.python.org/"><img src="icons/icons8-python.svg" width=48 height=48></a>
-  <a href="https://www.javascript.com/"><img src="icons/icons8-javascript.svg" width=48 height=48></a>
   <a href="https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)"><img src="icons/Opengl-logo.svg" width=48 height=48></a>
+  <a href="https://www.javascript.com/"><img src="icons/linux_icon.png" width=42 height=42></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/icons8-html-5.svg" width=48 height=48></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/icons8-css3.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://reactjs.org/"><img src="icons/React-icon.svg" width=48 height=48></a>
-  <a href="https://nextjs.org/"><img src="icons/nextjs.svg" width=48 height=48></a>
-  <a href="https://sass-lang.com/"><img src="icons/icons8-sass.svg" width=48 height=48></a>
+  <a href="https://reactjs.org/"><img src="icons/open3d.png" width=48 height=48></a>
+  <a href="https://nextjs.org/"><img src="icons/opencv_icon.png" width=42 height=42></a>
+  <a href="https://sass-lang.com/"><img src="icons/pytorch3dfavicon.png" width=48 height=48></a>
   <a href="https://github.com/pugjs/pug"><img src="icons/pug-final-logo-_-colour-128.svg" width=48 height=48></a>
   <a href="https://threejs.org/"><img src="icons/threejs.svg" width=48 height=48></a>
 </div>
@@ -72,19 +75,24 @@
 </div>
 
 <div align="center">
-  <a href="https://aws.amazon.com/"><img src="icons/icons8-amazon-web-services.svg" width=48 height=48></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="icons/Matlab_Logo.png" width=48 height=48></a>
 </div>
 
 <!-- <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcxx&layout=compact&langs_count=12&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingwenWang95&layout=compact&langs_count=12&theme=swift" />
 </div> -->
 
-<h2 align="center">
-  Links
-</h2>
-<div align=center>
-  <!-- <a href="https://luoweilue.com">https://luoweilue.com</a><br /> -->
-  <a href="https://jingwenwang95.github.io">https://jingwenwang95.github.io</a>
-  </ul>
-</div>
+[//]: # (<h2 align="center">)
+
+[//]: # (  Links)
+
+[//]: # (</h2>)
+
+[//]: # (<div align=center>)
+
+[//]: # (  <a href="https://jingwenwang95.github.io">https://jingwenwang95.github.io</a>)
+
+[//]: # (  </ul>)
+
+[//]: # (</div>)
 
