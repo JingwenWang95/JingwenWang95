@@ -9,19 +9,22 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br />
 </p>
 
-<!-- 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JingwenWang95&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
-</div>
--->
+[//]: # (<div align="center">)
+
+[//]: # (  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JingwenWang95&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>)
+
+[//]: # (</div>)
+
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&line_height=30" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide_title=false&line_height=30" />
 </div>
 
-<!-- <div align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JingwenWang95&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>
-</div> -->
+[//]: # (<div align="center">)
+
+[//]: # (  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JingwenWang95&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>)
+
+[//]: # (</div>)
 
 - 🌱 I’m currently a Ph.D. student at the [CDT in Foundational AI](https://www.ucl.ac.uk/ai-centre/) at University College London (UCL).
 - 🔭 My research interest lies in object-aware semantic SLAM and 3D reconstruction, combining object-level scene understanding and SLAM systems using learning-based approaches.
