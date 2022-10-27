@@ -9,11 +9,6 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br />
 </p>
 
-- 🌱 I’m currently a Ph.D. student at the [CDT in Foundational AI](https://www.ucl.ac.uk/ai-centre/) at University College London (UCL). Before that, I received my Bachelor’s degree at Peking University in July 2019.
-- 🔭 My research interest lies in object-aware semantic SLAM and 3D reconstruction, combining object-level scene understanding and SLAM systems using learning-based approaches.
-- ⚡ My personal website: [https://jingwenwang95.github.io/](https://jingwenwang95.github.io/)
-- 📫 How to reach me: [jingwen.wang.17@ucl.ac.uk](jingwen.wang.17@ucl.ac.uk)
-
 <!-- 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JingwenWang95&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
@@ -27,6 +22,11 @@
 <!-- <div align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JingwenWang95&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>
 </div> -->
+
+- 🌱 I’m currently a Ph.D. student at the [CDT in Foundational AI](https://www.ucl.ac.uk/ai-centre/) at University College London (UCL).
+- 🔭 My research interest lies in object-aware semantic SLAM and 3D reconstruction, combining object-level scene understanding and SLAM systems using learning-based approaches.
+- ⚡ My personal website: [https://jingwenwang95.github.io/](https://jingwenwang95.github.io/)
+- 📫 How to reach me: [jingwen.wang.17@ucl.ac.uk](jingwen.wang.17@ucl.ac.uk)
 
 
 <h2 align="center">
