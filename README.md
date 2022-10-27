@@ -25,6 +25,7 @@
 [//]: # (  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JingwenWang95&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>)
 
 [//]: # (</div>)
+<br>
 
 - 🌱 I’m currently a Ph.D. student at the [CDT in Foundational AI](https://www.ucl.ac.uk/ai-centre/) at University College London (UCL).
 - 🔭 My research interest lies in object-aware semantic SLAM and 3D reconstruction, combining object-level scene understanding and SLAM systems using learning-based approaches.
