@@ -36,23 +36,23 @@
 <div align="center">
   <!-- https://icons8.com/icons -->
   <a href="https://cplusplus.com/"><img src="icons/cpp_icon.png" width=42 height=48></a>
-  <a href="https://cplusplus.com/"><img src="icons/Cmake.svg.png" width=42 height=48></a>
+  <a href="https://cmake.org/"><img src="icons/Cmake.svg.png" width=42 height=48></a>
   <a href="https://www.python.org/"><img src="icons/icons8-python.svg" width=48 height=48></a>
   <a href="https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)"><img src="icons/Opengl-logo.svg" width=48 height=48></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/icons8-html-5.svg" width=48 height=48></a>
-
-[//]: # (  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/icons8-css3.svg" width=48 height=48></a>)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/icons8-css3.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://reactjs.org/"><img src="icons/open3d.png" width=48 height=48></a>
-  <a href="https://nextjs.org/"><img src="icons/opencv_icon.png" width=42 height=48></a>
-  <a href="https://sass-lang.com/"><img src="icons/pytorch3dfavicon.png" width=48 height=48></a>
+  <a href="http://www.open3d.org/"><img src="icons/open3d.png" width=48 height=48></a>
+  <a href="https://opencv.org/"><img src="icons/opencv_icon.png" width=42 height=48></a>
+  <a href="https://pytorch3d.org/"><img src="icons/pytorch3dfavicon.png" width=48 height=48></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="icons/Matlab_Logo.png" width=48 height=48></a>
+  <a href="https://www.linux.org/"><img src="icons/linux_icon.png" width=42 height=42></a>
 </div>
 
 <div align="center">
-  <a href="https://pytorch.org/"><img src="icons/pytorch-icon.svg" width=44 height=44></a>
+  <a href="https://pytorch.org/"><img src="icons/pytorch-icon.svg" width=46 height=46></a>
   <a href="https://numpy.org/"><img src="icons/numpy-icon.svg" width=48 height=48></a>
   <a href="https://matplotlib.org/"><img src="icons/Matplotlib_icon.svg" width=48 height=48></a>
 </div>
@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.javascript.com/"><img src="icons/linux_icon.png" width=42 height=42></a>
+  <a href="https://www.arduino.cc/"><img src="icons/arduino-logo-1.png" width=42 height=42></a>
 </div>
 
 <!-- <div align="center">
