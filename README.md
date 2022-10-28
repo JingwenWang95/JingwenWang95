@@ -64,7 +64,7 @@
 <div align="center">
   <!--- <a href="https://unity.com/"><img src="icons/icons8-unity.svg" width=48 height=48></a> --->
   <a href="https://www.arduino.cc/"><img src="icons/arduino-logo-1.png" width=42 height=42></a>
-  <a href="https://unity.com/"><img src="icons/Raspberry_Pi_Logo.svg.png" width=40 height=48></a>
+  <a href="https://www.raspberrypi.org/"><img src="icons/Raspberry_Pi_Logo.svg.png" width=40 height=48></a>
 </div>
 
 <div align="center">
