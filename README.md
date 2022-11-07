@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide_title=false&line_height=30" />
+  <img align="center" src="https://github-readme-stats-jingwenwang95.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide_title=false&line_height=30" />
 </div>
 
 [//]: # (<div align="center">)
