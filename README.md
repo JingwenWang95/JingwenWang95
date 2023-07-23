@@ -31,6 +31,7 @@
 - ⚡ My personal website: [https://jingwenwang95.github.io/](https://jingwenwang95.github.io/)
 - 📫 How to reach me: [jingwen.wang.17@ucl.ac.uk](jingwen.wang.17@ucl.ac.uk)
 
+**I'm expected to graduate in the end of 2023 and am looking for full-time research engineer/scientist positions in SLAM/robotics/3D Vision starting from spring 2024. Please feel free to reach out if you have potential job opportunities!**
 
 <h2 align="center">
   Languages & Tools
