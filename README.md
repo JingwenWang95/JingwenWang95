@@ -16,7 +16,7 @@
 [//]: # (</div>)
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-jingwenwang95.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=false&hide_title=false&line_height=30&theme=solarized-light"/>
+  <img align="center" src="https://github-readme-stats-jingwenwang95.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&hide_border=false&hide_title=false&line_height=30&theme=solarized-light"/>
 </div>
 
 [//]: # (<div align="center">)
