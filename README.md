@@ -2,6 +2,9 @@
   Hello I'm Jingwen Wang
 </h1>
 
+![](https://github-readme-stats-one-bice.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=solarized-light)
+
+
 [//]: # (<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=buefy&hide_border=true" alt="Jingwen's github stats" /></a>)
 
 <p align="center">
