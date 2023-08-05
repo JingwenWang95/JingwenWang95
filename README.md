@@ -2,7 +2,7 @@
   Hello I'm Jingwen Wang
 </h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=buefy&hide_border=true" alt="Jingwen's github stats" /></a>
+[//]: # (<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JingwenWang95&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=buefy&hide_border=true" alt="Jingwen's github stats" /></a>)
 
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br />
