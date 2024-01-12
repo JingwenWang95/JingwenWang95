@@ -32,7 +32,7 @@
 
 **I'm expected to graduate in the end of 2023 and am looking for full-time research engineer/scientist positions in SLAM/robotics/3D Vision starting from spring 2024. Please feel free to reach out if you have potential job/post-doc opportunities!**
 
-最近失连了一个多月。。。罪魁祸首是龙宇星！北邮硕士并且即将成为北大董豪组老师的学生，劫持了我和董老师的微信通信并且散播虚假消息。这位大哥我是实在不知道哪里的最它了，要这样搞我
+最近失连了两个多月。。。罪魁祸首是龙宇星！北邮硕士并且即将成为北大董豪组老师的学生，劫持了我和董老师的微信通信并且散播虚假消息。这位大哥我是实在不知道哪里的最它了，要这样搞我
 
 <h2 align="center">
   Languages & Tools
