@@ -26,7 +26,7 @@
 <br>
 
 - 🌱 I’m currently a Ph.D. student at the [CDT in Foundational AI](https://www.ucl.ac.uk/ai-centre/) at University College London (UCL).
-- 🔭 My research interest lies in object-aware semantic SLAM and 3D reconstruction, combining object-level scene understanding and SLAM systems using learning-based approaches.
+- 🔭 My research interest lies in object-aware semantic SLAM and 3D reconstruction, combining object-level scene understanding and SLAM systems using learning-based approaches. I'm also interested in how to incorporate spatial intelligence, i.e. SLAM, long-term mapping into embodied AI.
 - ⚡ My personal website: [https://jingwenwang95.github.io/](https://jingwenwang95.github.io/)
 - 📫 How to reach me: [jingwen.wang.17@ucl.ac.uk](jingwen.wang.17@ucl.ac.uk)
 
